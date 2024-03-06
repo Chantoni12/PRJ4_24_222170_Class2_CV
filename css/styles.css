@@ -1,7 +1,7 @@
 /* Use this file to use your own styles*/
 
 /* Import declaration to use Google Fonts - check https://fonts.google.com/ for details */
-@import url('https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 /* Styles for the body */
 
@@ -15,17 +15,17 @@ body {
   font-weight: <weight>;
   font-style: normal;
 }
-	background-color: #f8f8fc;
+	background-color: #f8f8f;
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #e0f0ff;
+	background-color: #DEF7CA;
 }
 
 .resume-main {
-	background-color: #fffefc;
+	background-color: #F7FFEE;
 }
 
 .resume-aside {
@@ -43,7 +43,7 @@ body {
 }
 
 .biography-details li::before {
-	color: #EE7623;
+	color: #000000;
 }
 
 .biography-details li, .skill-list li {
@@ -55,4 +55,12 @@ body {
 .contact-icon {
 	height: 1em;
 	flex-basis: 1.4em;
+}
+.col-md-7.col-lg-8.col-xl-9.resume-main .my-3.biography-section h2 {
+}
+.col-md-7.col-lg-8.col-xl-9.resume-main .my-3.biography-section h2 {
+}
+.w-90 {
+}
+.w-70 {
 }
