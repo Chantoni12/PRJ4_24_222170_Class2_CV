@@ -6,13 +6,13 @@
 /* Styles for the body */
 
 body {
-// <uniquifier>: Use a unique and descriptive class name
-// <weight>: Use a value from 100 to 900
+/* <uniquifier>: Use a unique and descriptive class name */
+/* <weight>: Use a value from 100 to 900 */
 }
 
 .public-sans-<uniquifier> {
   font-family: "Public Sans", sans-serif;
-	background-color: #f8f8f;
+	background-color: #f8f8f8;
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
